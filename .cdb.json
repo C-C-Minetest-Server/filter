@@ -1,0 +1,11 @@
+{
+    "type": "MOD",
+    "title": "Filter",
+    "name": "filter",
+    "short_description": "Chat word filter with Lua string matching",
+    "dev_state": "ACTIVELY_DEVELOPED",
+    "tags": ["chat","multiplayer","server_tools"],
+    "license": "MIT",
+    "repo": "https://github.com/C-C-Minetest-Server/filter",
+    "issue_tracker": "https://github.com/C-C-Minetest-Server/filter/issues"
+}
